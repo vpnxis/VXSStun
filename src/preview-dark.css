@@ -1,0 +1,18 @@
+/* Development fixture only: never changes the OS theme or ships in dist. */
+:root {
+  color-scheme: dark;
+  --bg: #141917;
+  --panel: #1d2420;
+  --card: #242d27;
+  --row: #222a25;
+  --text: #ecf0e9;
+  --muted: #a7b3a9;
+  --line: #364238;
+  --accent: #b7e294;
+  --selected: #303e2b;
+  --nav: #2b382d;
+  --right: #1c2520;
+  --button: #29332c;
+  --error: #ffb4ab;
+  --scroll-thumb: #526052;
+}
